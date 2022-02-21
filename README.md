@@ -8,18 +8,19 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+The program runs well except it is kind of difficult to see exactly which turtle is winning the race due to the fast speed of the code. The turtle shapes also to not completely fit within the program window, but all shapes are created correctly.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+No bugs or incomplete parts
 
 ## REFERENCES:
- < List any outside resources used >
+1)https://docs.python.org/3/library/turtle.html
+2)The course website and notes
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+Tried to increase size of window to fit the shapes drawn but each attempt caused the code to not work. Overall successful lab.

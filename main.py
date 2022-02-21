@@ -23,19 +23,19 @@ leonardo.goto(-100,-20)
 ## Race 1
 michelangelo.speed(1)
 leonardo.speed(1)
-x = random.randrange(1,101)
-y = random.randrange(1,101)
-michelangelo.forward(x)
-leonardo.forward(y)
+distance_mich = random.randrange(1,101)
+distance_leon = random.randrange(1,101)
+michelangelo.forward(distance_mich)
+leonardo.forward(distance_leon)
 michelangelo.goto(-100,20)
 leonardo.goto(-100,-20)
 
 ## Race 2
 for i in range(10):
-  x_2 = random.randrange(1,11)
-  michelangelo.forward(x_2)
-  y_2 = random.randrange(1,11)
-  leonardo.forward(y_2)
+  distance_1 = random.randrange(1,11)
+  michelangelo.forward(distance_1)
+  distance_2 = random.randrange(1,11)
+  leonardo.forward(distance_2)
 michelangelo.goto(-100,20)
 leonardo.goto(-100,-20)
 
